@@ -4,7 +4,9 @@ This project explores, analyzes, and builds recommendation systems using the **M
 We apply multiple approaches — from simple popularity-based recommendations to advanced **matrix factorization (SVD)** — and compare their performance.  
 
 ---
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mariamhamza3019-star/Movie-Recommendation-System/blob/main/Movie_Recommendation_System_.ipynb)
 
+This project explores, analyzes, and builds recommendation systems using the **MovieLens 100K dataset**.  
 ## 📂 Dataset  
 
 We use the [MovieLens 100K dataset](https://grouplens.org/datasets/movielens/100k/), which contains:  
