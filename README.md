@@ -31,4 +31,3 @@ Movie-Recommendation-System/
 │
 ├── Movie_Recommendation_System_.ipynb   # Main notebook
 ├── README.md                            # Project documentation
-└── data/                                # (Optional) dataset folder if added
